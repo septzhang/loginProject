@@ -1,2 +1,2 @@
 # loginProject
-基于JSP实现的project
+基于JSP实现登陆功能的project
